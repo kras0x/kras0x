@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06000d,35:ff2d7b,65:b04dff,100:00f0ff&height=220&section=home&text=KRAS&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Linux+Ricer+·+Code+Architect+·+Hyper+Carry&descSize=18&descAlignY=60&descAlign=50&descColor=00f0ff" width="100%"/>
+<img src="Logo_Kras_B.png" width="180" style="border-radius:20px;" />
 
 <br/>
 
